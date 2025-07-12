@@ -18,6 +18,9 @@ This project is designed to assist users—especially those in agriculture or pl
 ---
 
 ## 🚀 Getting Started
+📁 **Note for contributors:**  
+This repository uses [Git LFS](https://git-lfs.github.com/) to store the `model.h5` file.  
+To clone and use the model file properly, make sure Git LFS is installed on your system before running `git clone`.
 
 **1. Clone the repository**
 
